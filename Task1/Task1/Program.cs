@@ -4,5 +4,5 @@ Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
 Console.WriteLine("Якесь");//first dublicate
 Console.WriteLine("довільне");//second dublicate
 Console.WriteLine("повідомлення");//third dublicate
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");//fourth dublicate
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");//fifth dublicate
+Console.WriteLine("another random");//fourth dublicate
+Console.WriteLine("message");//fifth dublicate
